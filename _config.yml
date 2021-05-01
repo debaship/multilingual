@@ -103,3 +103,5 @@ exclude:
  - CODE_OF_CONDUCT.md
  - CONTRIBUTING.md
  - INSTALL.md
+
+theme: jekyll-theme-leap-day
